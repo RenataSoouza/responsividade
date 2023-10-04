@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/trN83pDD8yRDHBGfl3/giphy.gif" width=65>
 </div>
 <h1 align="center">
-  <a href="renatasoouza.github.io/responsividade/" target="_blank">Aula 09 🔗  </a>
+  <a href="https://renatasoouza.github.io/responsividade/" target="_blank">Aula 09 🔗  </a>
 </h1>
 
 ### 📖 Sobre
